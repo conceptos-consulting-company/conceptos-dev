@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: "Pirata One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    letter-spacing: .3rem;
+}
+
+.title-font {
+  /* font-family: "UnifrakturMaguntia", system-ui; */
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
